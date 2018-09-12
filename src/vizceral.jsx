@@ -1,6 +1,6 @@
 'use strict';
 
-import { isEqual } from 'lodash';
+import isEqual from 'lodash.isequal';
 import React from 'react'; // eslint-disable-line import/no-unresolved, import/no-extraneous-dependencies
 import VizceralGraph from 'vizceral';
 import PropTypes from 'prop-types';
